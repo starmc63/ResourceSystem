@@ -1,0 +1,4 @@
+allowed-commands:
+  - /tpa
+  - /tpaccept
+  - /spawn

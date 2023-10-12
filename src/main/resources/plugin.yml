@@ -1,0 +1,9 @@
+name: ResourceSystem
+version: '${version}'
+main: cn.edenetwk.resourcesystem.ResourceSystem
+api-version: '1.20'
+depend: [Towny]
+folia-supported: true
+commands:
+  resource:
+    description: Eden资源区插件
